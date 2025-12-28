@@ -1,3 +1,4 @@
 Hello !
-My name is Prashant Chahar, a BCA 4th semester student with a stromg interset in Data Analytics.
+My name is Tushar Chahar, a BCA 4th semester student with a strong interset in Data Science.
 Thanks you!
+
